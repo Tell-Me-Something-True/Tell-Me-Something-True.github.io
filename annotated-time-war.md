@@ -5,7 +5,7 @@ subtitle:
 use-site-title: true
 ---
 
-This is very much a work in progress. If I've missed anything, or if you want to help out, let me know through either filing an <a href="https://github.com/isogenous/isogenous.github.io/issues">issue</a>, a <a href="https://github.com/isogenous/isogenous.github.io/pulls">PR</a> or drop me an email at oiuoyt@gmail.com
+This is very much a work in progress. If I've missed anything, or if you want to help out, let me know through either filing an <a href="https://github.com/Tell-Me-Something-True/Tell-Me-Something-True.github.io/issues">issue</a>, a <a href="https://github.com/Tell-Me-Something-True/Tell-Me-Something-True.github.io/pulls">PR</a> or drop me an email at oiuoyt@gmail.com
 
 {% for chapter in site.data.chapter_title %}
 
